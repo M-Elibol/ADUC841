@@ -1,0 +1,4 @@
+".\Objects\soru2.obj" 
+TO ".\Objects\Soru2" 
+
+PRINT(".\Listings\Soru2.map")
